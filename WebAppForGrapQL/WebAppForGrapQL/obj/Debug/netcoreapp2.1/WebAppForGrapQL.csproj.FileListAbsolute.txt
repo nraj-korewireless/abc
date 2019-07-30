@@ -1,0 +1,14 @@
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\bin\Debug\netcoreapp2.1\WebAppForGrapQL.deps.json
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\bin\Debug\netcoreapp2.1\WebAppForGrapQL.runtimeconfig.json
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\bin\Debug\netcoreapp2.1\WebAppForGrapQL.runtimeconfig.dev.json
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\bin\Debug\netcoreapp2.1\WebAppForGrapQL.dll
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.csproj.CoreCompileInputs.cache
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.RazorAssemblyInfo.cache
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.RazorAssemblyInfo.cs
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.AssemblyInfoInputs.cache
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.AssemblyInfo.cs
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.RazorTargetAssemblyInfo.cache
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.csprojAssemblyReference.cache
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\bin\Debug\netcoreapp2.1\WebAppForGrapQL.pdb
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.dll
+C:\Users\nraj\source\repos\WebAppForGrapQL\WebAppForGrapQL\obj\Debug\netcoreapp2.1\WebAppForGrapQL.pdb
